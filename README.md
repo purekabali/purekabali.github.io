@@ -1,2 +1,2 @@
-# purekabali.github.io
+# purekabali
 hi buddy
